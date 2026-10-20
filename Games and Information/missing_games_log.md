@@ -37,5 +37,4 @@ The following games had data recording issues on the official scoresheets and ar
 | :---: | :--- | :--- | :--- |
 | **Board 9** | Remy Chan vs. McKenna | Forfeit Lose (- : +) | 🚫 Game Omitted |
 | **Board 19** | Aden vs. Kobe Ho | Forfeit Lose (- : +) | 🚫 Game Omitted |
-| **Board 16** | Alex vs. Rory | Missing or Illegal moves | ⏳ Currently under review |
 | **Board 22** | Jicarus vs. Antonio | Missing or Illegal moves | ⏳ Currently under review |
