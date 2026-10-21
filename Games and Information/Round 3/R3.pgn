@@ -271,6 +271,27 @@ Ne1 Bg5 23. f4 exf3 24. Nxf3 Bxe3+ 0-1
 [Site "Cotai Bowling Centre, Macau"]
 [Date "2026.10.17"]
 [Round "3"]
+[White "Alex"]
+[Black "Rory"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "1-0"]
+[Termination "White Won by checkmate"]
+[TimeControl "5400+30"]
+[Board "16"]
+
+1. Nf3 Nc6 2. g3 e5 3. Bg2 d5 4. O-O Bd6 5. d3 Nf6 6. Bg5 O-O 7. Nc3 h6 8.
+Bxf6 Qxf6 9. Nxd5 Qe6 10. e4 Qe8 11. c3 Bg4 12. Qd2 Qd7 13. Nh4 Ne7 14. Ne3
+Bh5 15. d4 exd4 16. cxd4 g5 17. Nhf5 Nxf5 18. Nxf5 Rfe8 $2 19. Nxh6+ Kh7 20. Qxg5
+Bg6 21. Ng4 Be7 22. Nf6+ Bxf6 23. Qxf6 Re6 24. Qh4+ Kg7 25. d5 Rh8 26. dxe6
+Qxe6 27. Qf4 f5 28. exf5 Bxf5 29. Qxc7+ Kf6 30. Rfe1 Qf7 $2 31. Qe5+ Kg6 32. Qxh8
+b5 33. h4 a5 34. Rad1 Qf6 35. Qg8+ Kh6 36. Rc1 Bh7 37. Qg4 Bf5 38. Qf4+ Kg6 39.
+Rc6 Be6 40. Rcxe6 Qxe6 41. Rxe6+ Kg7 42. Qf6+ Kg8 43. Re8+ Kh7 44. Be4# 1-0
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.17"]
+[Round "3"]
 [White "Louis"]
 [Black "Reve"]
 [WhiteCountry "MAC"]
