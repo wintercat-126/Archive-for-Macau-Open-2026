@@ -147,7 +147,7 @@ g5 29. fxg5 Nxh2 30. Bg4 Nf3+ 31. Bxf3 Rxh4 32. gxh4 Qg3+ 33. Bg2 Rf2 0-1
 [WhiteCountry "MAC"]
 [BlackCountry "MAC"]
 [Result "1-0"]
-[Termination "White Won by resignation"]
+[Termination "White Won by checkmate"]
 [TimeControl "5400+30"]
 [Board "13"]
 
