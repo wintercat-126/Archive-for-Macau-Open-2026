@@ -37,6 +37,8 @@ This document contains the official pairings and results for **Round 1** of the 
 * **Black Wins:** 11
 * **Draws:** 0
 
-**⚠️ NOTICE**
+---
+
+##⚠️ NOTICE
 
 In Board 12 (Matias vs. Serena), the official results showed 0-1.
