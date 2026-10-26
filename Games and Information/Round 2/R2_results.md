@@ -20,7 +20,7 @@ This document contains the official pairings and results for **Round 2** of the 
 | **10** | Rory | U8 | 1.0 | 39 | **0 : 1** | Jason | U16 | 1.0 | 13 |
 | **11** | Sixing Li | U10 | 0.0 | 29 | **+ : -** | Mike Ng | U16 | 0.0 | 7 |
 | **12** | Chase | U16 | 0.0 | 10 | **- : +** | McKenna | U10 | 0.0 | 34 |
-| **13** | Serena | U16 | 1.0 | 12 | **1 : 0** | Aden | U8 | 0.0 | 36 |
+| **13** | Serena | U16 | 0.0 | 12 | **1 : 0** | Aden | U8 | 0.0 | 36 |
 | **14** | Kyle Ho | U10 | 0.0 | 31 | **0 : 1** | Nelson | U14 | 0.0 | 17 |
 | **15** | Aidan | U10 | 0.0 | 33 | **1 : 0** | Gabriel Lo | U12 | 0.0 | 19 |
 | **16** | Rafael | U12 | 0.0 | 20 | **0 : 1** | Hinhin | U8 | 0.0 | 38 |
