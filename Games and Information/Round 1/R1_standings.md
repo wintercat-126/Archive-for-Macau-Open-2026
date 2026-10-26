@@ -17,7 +17,7 @@ This document contains the official standings after **Round 1** of the 2026 Maca
 | **7** | Hazel | 8 | U16 | 1 | 0.0 | 0.0 | 1.0 |
 | **8** | Kyle Tang | 9 | U16 | 1 | 0.0 | 0.0 | 1.0 |
 | **9** | Remy Chan | 11 | U16 | 1 | 0.0 | 0.0 | 1.0 |
-| **10** | Serena | 12 | U16 | 0 | 0.0 | 0.0 | 1.0 |
+| **10** | Serena | 12 | U16 | 0 | 1.0 | 1.0 | 0.0 |
 | **11** | Jason | 13 | U16 | 1 | 0.0 | 0.0 | 1.0 |
 | **12** | Matthew Wong | 14 | U14 | 1 | 0.0 | 0.0 | 1.0 |
 | **13** | Thomas | 15 | U14 | 1 | 0.0 | 0.0 | 1.0 |
@@ -42,7 +42,7 @@ This document contains the official standings after **Round 1** of the 2026 Maca
 | **32** | Jicarus | 28 | U10 | 0 | 1.0 | 1.0 | 0.0 |
 | **33** | Sixing Li | 29 | U10 | 0 | 1.0 | 1.0 | 0.0 |
 | **34** | Kyle Ho | 31 | U10 | 0 | 1.0 | 1.0 | 0.0 |
-| **35** | Matias | 32 | U10 | 0 | 1.0 | 1.0 | 0.0 |
+| **35** | Matias | 32 | U10 | 1.0 | 0.0 | 1.0 | 0.0 |
 | **36** | Aidan | 33 | U10 | 0 | 1.0 | 1.0 | 0.0 |
 | **37** | McKenna | 34 | U10 | 0 | 1.0 | 1.0 | 0.0 |
 | **38** | Jayden Lam | 35 | U8 | 0 | 1.0 | 1.0 | 0.0 |
