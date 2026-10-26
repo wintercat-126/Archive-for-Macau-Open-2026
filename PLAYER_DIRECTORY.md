@@ -12,13 +12,13 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | **02** | Aidan | 33 |  |
 | **03** | Alex | 41 | Joined at Round 2 |
 | **04** | Alfred | 18 |  |
-| **05** | Alvin Cheang | 44 | Joined at Round 2 |
+| **05** | Alvin Cheang | 44 | Joined at Round 2; Confirmed Withdrew at Round 5 |
 | **06** | Anderson | 37 |  |
 | **07** | Andy | 4 |  |
 | **08** | Antonio | 45 | Joined at Round 2 |
 | **09** | Benson | 3 |  |
 | **10** | Charles | 25 |  |
-| **11** | Chase | 10 | Withdrew at Round 3 |
+| **11** | Chase | 10 | Confirmed Withdrew at Round 3 |
 | **12** | David | 6 |  |
 | **13** | Elvan | 5 |  |
 | **14** | Ezra | 23 |  |
@@ -35,14 +35,14 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | **25** | Kobe Ho | 21 |  |
 | **26** | Kyle Ho | 31 |  |
 | **27** | Kyle Tang | 9 |  |
-| **28** | Lon | 40 |  |
+| **28** | Lon | 40 | Confirmed Withdrew at Round 5 |
 | **29** | Louis | 22 |  |
 | **30** | Luka | 30 |  |
 | **31** | Martin | 42 | Joined at Round 2 |
 | **32** | Matias | 32 |  |
 | **33** | Matthew Wong | 14 |  |
 | **34** | McKenna | 34 |  |
-| **35** | Mike Ng | 7 | Withdrew at Round 3 |
+| **35** | Mike Ng | 7 | Confirmed Withdrew at Round 3 |
 | **36** | Miles | 43 | Joined at Round 2 |
 | **37** | Nelson | 17 |  |
 | **38** | Rafael | 20 |  |
@@ -67,10 +67,10 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | **04** | Andy | 4 |  |
 | **05** | Elvan | 5 |  |
 | **06** | David | 6 |  |
-| **07** | Mike Ng | 7 | Withdrew at Round 3 |
+| **07** | Mike Ng | 7 | Confirmed Withdrew at Round 3 |
 | **08** | Hazel | 8 |  |
 | **09** | Kyle Tang | 9 |  |
-| **10** | Chase | 10 | Withdrew at Round 3 |
+| **10** | Chase | 10 | Confirmed Withdrew at Round 3 |
 | **11** | Remy Chan | 11 |  |
 | **12** | Serena | 12 |  |
 | **13** | Jason | 13 |  |
@@ -100,11 +100,11 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | **37** | Anderson | 37 |  |
 | **38** | Hinhin | 38 |  |
 | **39** | Rory | 39 |  |
-| **40** | Lon | 40 |  |
+| **40** | Lon | 40 | Confirmed Withdrew at Round 5 |
 | **41** | Alex | 41 | Joined at Round 2 |
 | **42** | Martin | 42 | Joined at Round 2 |
 | **43** | Miles | 43 | Joined at Round 2 |
-| **44** | Alvin Cheang | 44 | Joined at Round 2 |
+| **44** | Alvin Cheang | 44 | Joined at Round 2; Confirmed Withdrew at Round 5 |
 | **45** | Antonio | 45 | Joined at Round 2 |
 | **46** | Katrina | 46 | Joined at Round 2 |
 
@@ -127,7 +127,7 @@ The following **2 players** withdrew from the competition before Round 3 pairing
 * **Chase** (Seed 10)
 
 ### 📊 Registration Summary
-* **Active Competitors:** 44
+* **Active Competitors:** 42
 * **Total Historic Register:** 46
 
 ---
