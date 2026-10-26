@@ -39,6 +39,6 @@ This document contains the official pairings and results for **Round 1** of the 
 
 ---
 
-##⚠️ NOTICE
+## ⚠️ NOTICE
 
 In Board 12 (Matias vs. Serena), the official results showed 0-1.
