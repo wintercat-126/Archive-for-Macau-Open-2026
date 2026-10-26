@@ -1,6 +1,6 @@
-# 👥 2026 Macau Chess Open  Player Directory
+# 👥 2026 Macau Chess Open Player Directory
 
-This is the comprehensive player index for the **2026 Macau Chess Open**. It lists all **46 registered competitors** formatted in both alphabetical order and starting seed order, including their tournament status records.
+This is the comprehensive player index for the 2026 Macau Chess Open. It lists all 46 registered competitors formatted in both alphabetical order and starting seed order, including their tournament status records.
 
 ---
 
@@ -10,15 +10,15 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | :---: | :---: | :---: | :---: |
 | **01** | Aden | 36 |  |
 | **02** | Aidan | 33 |  |
-| **03** | Alex | 41 | Joined at Round 2 |
+| **03** | Alex | 41 | Late Registration |
 | **04** | Alfred | 18 |  |
-| **05** | Alvin Cheang | 44 | Joined at Round 2; Confirmed Withdrew at Round 5 |
+| **05** | Alvin Cheang | 44 | Late Registration; Confirmed Withdrew |
 | **06** | Anderson | 37 |  |
 | **07** | Andy | 4 |  |
-| **08** | Antonio | 45 | Joined at Round 2 |
+| **08** | Antonio | 45 | Late Registration |
 | **09** | Benson | 3 |  |
 | **10** | Charles | 25 |  |
-| **11** | Chase | 10 | Confirmed Withdrew at Round 3 |
+| **11** | Chase | 10 | Confirmed Withdrew |
 | **12** | David | 6 |  |
 | **13** | Elvan | 5 |  |
 | **14** | Ezra | 23 |  |
@@ -31,19 +31,19 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | **21** | Jicarus | 28 |  |
 | **22** | Joao Roxo | 1 |  |
 | **23** | Julian | 16 |  |
-| **24** | Katrina | 46 | Joined at Round 2 |
+| **24** | Katrina | 46 | Late Registration |
 | **25** | Kobe Ho | 21 |  |
 | **26** | Kyle Ho | 31 |  |
 | **27** | Kyle Tang | 9 |  |
-| **28** | Lon | 40 | Confirmed Withdrew at Round 5 |
+| **28** | Lon | 40 | Confirmed Withdrew |
 | **29** | Louis | 22 |  |
 | **30** | Luka | 30 |  |
-| **31** | Martin | 42 | Joined at Round 2 |
+| **31** | Martin | 42 | Late Registration |
 | **32** | Matias | 32 |  |
 | **33** | Matthew Wong | 14 |  |
 | **34** | McKenna | 34 |  |
-| **35** | Mike Ng | 7 | Confirmed Withdrew at Round 3 |
-| **36** | Miles | 43 | Joined at Round 2 |
+| **35** | Mike Ng | 7 | Confirmed Withdrew |
+| **36** | Miles | 43 | Late Registration |
 | **37** | Nelson | 17 |  |
 | **38** | Rafael | 20 |  |
 | **39** | Remy Chan | 11 |  |
@@ -67,10 +67,10 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | **04** | Andy | 4 |  |
 | **05** | Elvan | 5 |  |
 | **06** | David | 6 |  |
-| **07** | Mike Ng | 7 | Confirmed Withdrew at Round 3 |
+| **07** | Mike Ng | 7 | Confirmed Withdrew |
 | **08** | Hazel | 8 |  |
 | **09** | Kyle Tang | 9 |  |
-| **10** | Chase | 10 | Confirmed Withdrew at Round 3 |
+| **10** | Chase | 10 | Confirmed Withdrew |
 | **11** | Remy Chan | 11 |  |
 | **12** | Serena | 12 |  |
 | **13** | Jason | 13 |  |
@@ -100,34 +100,34 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | **37** | Anderson | 37 |  |
 | **38** | Hinhin | 38 |  |
 | **39** | Rory | 39 |  |
-| **40** | Lon | 40 | Confirmed Withdrew at Round 5 |
-| **41** | Alex | 41 | Joined at Round 2 |
-| **42** | Martin | 42 | Joined at Round 2 |
-| **43** | Miles | 43 | Joined at Round 2 |
-| **44** | Alvin Cheang | 44 | Joined at Round 2; Confirmed Withdrew at Round 5 |
-| **45** | Antonio | 45 | Joined at Round 2 |
-| **46** | Katrina | 46 | Joined at Round 2 |
+| **40** | Lon | 40 | Confirmed Withdrew |
+| **41** | Alex | 41 | Late Registration |
+| **42** | Martin | 42 | Late Registration |
+| **43** | Miles | 43 | Late Registration |
+| **44** | Alvin Cheang | 44 | Late Registration; Confirmed Withdrew |
+| **45** | Antonio | 45 | Late Registration |
+| **46** | Katrina | 46 | Late Registration |
 
 ---
 
 ## 📋 Status Summary
 
-### 📥 Late Registrations (Joined at Round 2)
-The following **6 players** entered the tournament starting from Round 2:
-* **Alex** (Seed 41)
-* **Martin** (Seed 42)
-* **Miles** (Seed 43)
-* **Alvin Cheang** (Seed 44)
-* **Antonio** (Seed 45)
-* **Katrina** (Seed 46)
+### 📥 Late Registrations
+The following 6 players entered the tournament after the initial pairings:
+* Alex (Seed 41)
+* Martin (Seed 42)
+* Miles (Seed 43)
+* Alvin Cheang (Seed 44)
+* Antonio (Seed 45)
+* Katrina (Seed 46)
 
-###  Withdrawals (Left at Round 3)
-The following **2 players** withdrew from the competition before Round 3 pairings:
-* **Mike Ng** (Seed 7)
-* **Chase** (Seed 10)
+### 🚪 Withdrawals
+The following 4 players withdrew from the competition early:
+* Mike Ng (Seed 7)
+* Chase (Seed 10)
+* Lon (Seed 40)
+* Alvin Cheang (Seed 44)
 
 ### 📊 Registration Summary
-* **Active Competitors:** 42
-* **Total Historic Register:** 46
-
----
+* Active Competitors: 42
+* Total Historic Register: 46
