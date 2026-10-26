@@ -19,7 +19,7 @@ This document contains the official pairings and results for **Round 1** of the 
 | **09** | Kyle Tang | U16 | 0.0 | 9 | **1 : 0** | Sixing Li | U10 | 0.0 | 29 |
 | **10** | Luka | U10 | 0.0 | 30 | **1 : 0** | Chase | U16 | 0.0 | 10 |
 | **11** | Remy Chan | U16 | 0.0 | 11 | **1 : 0** | Kyle Ho | U10 | 0.0 | 31 |
-| **12** | Matias | U10 | 0.0 | 32 | **1 : 0*** | Serena | U16 | 0.0 | 12 |
+| **12** | Matias | U10 | 0.0 | 32 | **1 : 0** | Serena | U16 | 0.0 | 12 |
 | **13** | Jason | U16 | 0.0 | 13 | **1 : 0** | Aidan | U10 | 0.0 | 33 |
 | **14** | McKenna | U10 | 0.0 | 34 | **0 : 1** | Matthew Wong | U14 | 0.0 | 14 |
 | **15** | Thomas | U14 | 0.0 | 15 | **1 : 0** | Jayden Lam | U8 | 0.0 | 35 |
@@ -33,12 +33,6 @@ This document contains the official pairings and results for **Round 1** of the 
 
 ## 📝 Round Summary
 * **Total Boards:** 20
-* **White Wins:** 9
-* **Black Wins:** 11
+* **White Wins:** 10
+* **Black Wins:** 10
 * **Draws:** 0
-
----
-
-## ⚠️ NOTICE
-
-For Board 12 (Matias vs. Serena), the official results showed 0-1.
