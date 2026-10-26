@@ -35,6 +35,6 @@ This document contains the official pairings and results for **Round 4** the 202
 
 ## 📝 Round Summary
 * **Total Boards:** 22
-* **White Wins:** 11
+* **White Wins:** 11 (Including 2 forfeits)
 * **Black Wins:** 8
-* **Draws:** 3
+* **Draws:** 3 (Including 1 forfeit, draw agreed)
