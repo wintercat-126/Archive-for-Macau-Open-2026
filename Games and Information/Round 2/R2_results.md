@@ -13,7 +13,7 @@ This document contains the official pairings and results for **Round 2** of the 
 | **03** | Julian | U14 | 1.0 | 16 | **+ : -** | Benson | Open | 1.0 | 3 |
 | **04** | Andy | U18 | 1.0 | 4 | **.5 : .5** | Luka | U10 | 1.0 | 30 |
 | **05** | Alfred | U14 | 1.0 | 18 | **1 : 0** | Elvan | U18 | 1.0 | 5 |
-| **06** | David | U18 | 1.0 | 6 | **1 : 0** | Matias | U10 | 0.0 | 32 |
+| **06** | David | U18 | 1.0 | 6 | **1 : 0** | Matias | U10 | 1.0 | 32 |
 | **07** | Hazel | U16 | 1.0 | 8 | **1 : 0** | Lon | U16 | 1.0 | 40 |
 | **08** | Reve | U12 | 1.0 | 27 | **0 : 1** | Kyle Tang | U16 | 1.0 | 9 |
 | **09** | Anderson | U8 | 1.0 | 37 | **1 : 0** | Remy Chan | U16 | 1.0 | 11 |
