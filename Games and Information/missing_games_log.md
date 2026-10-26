@@ -9,7 +9,7 @@
 The following games had data recording issues on the official scoresheets and are undergoing reconstruction or evaluation:
 
 | Board | Matchup | Issue | Status |
-| :---: | :--- | :--- | :--- |
+| :---: | :--- | :--- | :---: |
 | **Board 12** | Matias vs. Serena | Uncompleted game score | ⏳ Currently under review |
 | **Board 14** | McKenna vs. Matthew Wong | Missing or Illegal moves | ⏳ Currently under review |
 | **Board 19** | Gabriel Lo vs. Rory | Missing or Illegal moves | ⏳ Currently under review |
@@ -20,7 +20,7 @@ The following games had data recording issues on the official scoresheets and ar
 The following games had data recording issues on the official scoresheets and are undergoing reconstruction or evaluation:
 
 | Board | Matchup | Issue | Status |
-| :---: | :--- | :--- | :--- |
+| :---: | :--- | :--- | :---: |
 | **Board 3** | Julian vs. Benson | Forfeit Win (+ : -) | 🚫 Game Omitted |
 | **Board 9** | Anderson vs. Remy Chan | Missing or Illegal moves | ⏳ Currently under review |
 | **Board 10** | Rory vs. Jason | Missing or Illegal moves | ⏳ Currently under review |
@@ -34,7 +34,17 @@ The following games had data recording issues on the official scoresheets and ar
 The following games had data recording issues on the official scoresheets and are undergoing reconstruction or evaluation:
 
 | Board | Matchup | Issue | Status |
-| :---: | :--- | :--- | :--- |
+| :---: | :--- | :--- | :---: |
 | **Board 9** | Remy Chan vs. McKenna | Forfeit Lose (- : +) | 🚫 Game Omitted |
 | **Board 19** | Aden vs. Kobe Ho | Forfeit Lose (- : +) | 🚫 Game Omitted |
 | **Board 22** | Jicarus vs. Antonio | Missing or Illegal moves | ⏳ Currently under review |
+
+---
+
+## 📅 Round 4
+These games are currently undergoing evaluation and will be updated as soon as the review is complete.
+
+| Board | Matchup | Issue | Status |
+| :---: | :--- | :--- | :---: |
+| **Board 10** | Ezra vs. Lon | Forfeit Win (+ : -) | 🚫 Game Omitted |
+| **Board 19** | Kyle Ho vs. Alvin Cheang | Forfeit Win (+ : -) | 🚫 Game Omitted |
