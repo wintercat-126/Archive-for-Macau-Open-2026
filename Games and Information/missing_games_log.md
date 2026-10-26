@@ -47,4 +47,5 @@ These games are currently undergoing evaluation and will be updated as soon as t
 | Board | Matchup | Issue | Status |
 | :---: | :--- | :--- | :---: |
 | **Board 10** | Ezra vs. Lon | Forfeit Win (+ : -) | 🚫 Game Omitted |
+| **Board 13** | Serena vs. Hinhin | Forfeit (Draw agreed) (- : -) | 🚫 Game Omitted |
 | **Board 19** | Kyle Ho vs. Alvin Cheang | Forfeit Win (+ : -) | 🚫 Game Omitted |
