@@ -10,7 +10,7 @@ The following games had data recording issues on the official scoresheets and ar
 
 | Board | Matchup | Issue | Status |
 | :---: | :--- | :--- | :---: |
-| **Board 12** | Matias vs. Serena | Uncompleted game score | ⏳ Currently under review |
+| **Board 12** | Matias vs. Serena | Uncompleted game score | 🚫 Game Omitted |
 | **Board 14** | McKenna vs. Matthew Wong | Missing or Illegal moves | ⏳ Currently under review |
 | **Board 19** | Gabriel Lo vs. Rory | Missing or Illegal moves | ⏳ Currently under review |
 
@@ -46,6 +46,10 @@ These games are currently undergoing evaluation and will be updated as soon as t
 
 | Board | Matchup | Issue | Status |
 | :---: | :--- | :--- | :---: |
+| **Board 6** | Charles vs. ... | Forfeit Win (+ : -) | 🚫 Game Omitted |
 | **Board 10** | Ezra vs. Lon | Forfeit Win (+ : -) | 🚫 Game Omitted |
+| **Board 11** | Alex vs. Joao Roxo | No Scoresheet in hand | 🔎 Retrieving |
+| **Board 12** | Remy Chan vs. Luka | Missing or Illegal moves | ⏳ Currently under review |
 | **Board 13** | Serena vs. Hinhin | Forfeit (Draw agreed) (- : -) | 🚫 Game Omitted |
+| **Board 16** | Katrina vs. Fernando | Forfeit (Draw agreed) (- : -) | 🚫 Game Omitted |
 | **Board 19** | Kyle Ho vs. Alvin Cheang | Forfeit Win (+ : -) | 🚫 Game Omitted |
