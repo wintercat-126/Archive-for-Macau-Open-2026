@@ -46,7 +46,7 @@ These games are currently undergoing evaluation and will be updated as soon as t
 
 | Board | Matchup | Issue | Status |
 | :---: | :--- | :--- | :---: |
-| **Board 6** | Charles vs. ... | Forfeit Win (+ : -) | 🚫 Game Omitted |
+| **Board 6** | Charles vs. Jason | Missing or Illegal moves | ⏳ Currently under review |
 | **Board 10** | Ezra vs. Lon | Forfeit Win (+ : -) | 🚫 Game Omitted |
 | **Board 11** | Alex vs. Joao Roxo | No Scoresheet in hand | 🔎 Retrieving |
 | **Board 12** | Remy Chan vs. Luka | Missing or Illegal moves | ⏳ Currently under review |
