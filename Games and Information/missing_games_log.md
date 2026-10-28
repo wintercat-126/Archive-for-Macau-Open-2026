@@ -51,5 +51,5 @@ These games are currently undergoing evaluation and will be updated as soon as t
 | **Board 11** | Alex vs. Joao Roxo | No Scoresheet in hand | 🔎 Retrieving |
 | **Board 12** | Remy Chan vs. Luka | Missing or Illegal moves | ⏳ Currently under review |
 | **Board 13** | Serena vs. Hinhin | Forfeit (Draw agreed) (- : -) | 🚫 Game Omitted |
-| **Board 16** | Katrina vs. Fernando | Forfeit (Draw agreed) (- : -) | 🚫 Game Omitted |
+| **Board 16** | Katrina vs. Fernando | Missing or Illegal moves | ⏳ Currently under review |
 | **Board 19** | Kyle Ho vs. Alvin Cheang | Forfeit Win (+ : -) | 🚫 Game Omitted |
